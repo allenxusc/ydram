@@ -1,4 +1,4 @@
 <?php 
 phpinfo();
 return;
-exit;
+exit('abc');
