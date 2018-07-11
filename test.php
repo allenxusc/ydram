@@ -2,4 +2,4 @@
 phpinfo();
 echo "test	`";
 return;
-exit('abc');
+;// exit('abc');
